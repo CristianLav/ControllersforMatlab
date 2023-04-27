@@ -1,2 +1,2 @@
 # ControllersforMatlab
-This code was use for the Advance Topics of Control of the Mechatronics Engineer Career, it is not complete yet but works for getting the constant of the PID technique and the Servo technique
+This code was used for the Advanced Topics in Control course of the Mechatronics Engineering program. While it is not yet complete, it is currently functional for obtaining the constants for both the PID technique and the Servo technique. More features will be added in the near future
